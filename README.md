@@ -13,12 +13,13 @@ To run the frontend locally, follow these steps:
    
    Navigate to the project directory:
     cd movie-zone-frontend
-
-Install dependencies:
+   Install dependencies:
 npm install
 
 Start the development server:
 npm start
+
+
 
 Open your browser and go to http://localhost:3000.
 
