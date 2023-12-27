@@ -1,4 +1,4 @@
-# Movie Zone Frontend
+# Movie Database System
 
 Welcome to Movie Zone Frontend! This is the frontend part of a web application for searching and exploring movies, actors, directors, genres, and feedback.
 
